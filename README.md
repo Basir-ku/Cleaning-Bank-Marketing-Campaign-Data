@@ -2,7 +2,7 @@
 This project aims to clean and transform data from a bank marketing campaign to prepare it for storage in a PostgreSQL database. The cleaned data will adhere to a specific structure and data types defined by the bank, enabling efficient data management for current and future campaigns. 
 
 ## Cleaning Requirements
-The task involves cleaning the `"bank_marketing.csv"` file to address any inconsistencies, converting the data into the appropriate formats, and then splitting it into three distinct CSV files: `client.csv`, `campaign.csv`, and `economics.csv`. Here is following requirements.
+The task involves cleaning the `"bank_marketing.csv"` file to address any inconsistencies, converting the data into the appropriate formats, and then splitting it into three distinct CSV files: `client.csv`, `campaign.csv`, and `economics.csv`. Here are the requirements.
 
 ## `client.csv`
 
