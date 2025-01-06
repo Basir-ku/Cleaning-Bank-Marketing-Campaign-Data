@@ -41,7 +41,7 @@ The task involves cleaning the `"bank_marketing.csv"` file to address any incons
 | `euribor_three_months` | `float` | Euro Interbank Offered Rate (euribor) three-month rate (daily indicator) | N/A |
 
 
-### Install the required libraries using the following command
+## Install the required libraries using the following command
 pip install pandas numpy
 
 
