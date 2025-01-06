@@ -44,5 +44,5 @@ The task involves cleaning the `"bank_marketing.csv"` file to address any incons
 ## Install the required libraries using the following command
 pip install pandas numpy
 
-✅ `DataCamp project`
+                                         ✅ `DataCamp project`
 
